@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  ![JavaPong](https://github.com/joojscript/Pong/blob/master/.github/javapong.gif?raw=true)
+  <img src="https://github.com/joojscript/Pong/blob/master/.github/javapong.gif?raw=true" width="600" height="300" />
 </h1>
 
 Just a simple version of the golden classic! I made this in Java while first started learning the language.
