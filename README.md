@@ -1,6 +1,10 @@
-# JavaPong
+<h1 align="center">
+  ☕ JavaPong 🏓
+</h1>
 
-![JavaPong](https://github.com/joojscript/Pong/blob/master/.github/javapong.gif?raw=true)
+<h1 align="center">
+  ![JavaPong](https://github.com/joojscript/Pong/blob/master/.github/javapong.gif?raw=true)
+</h1>
 
 Just a simple version of the golden classic! I made this in Java while first started learning the language.
 
